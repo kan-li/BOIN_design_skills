@@ -11,6 +11,10 @@ The BOIN Basic Skill Package is an AI-powered assistant that helps biostatistici
 - **Quality assurance** - Built-in validation against canonical fixtures
 - **Professional documentation** - Ready-to-submit protocol sections
 
+## Video Demo
+
+https://drive.google.com/file/d/1_NrBAgfitFNB-lxZ78FbaGfs8lDi7YZ1/view?usp=sharing
+
 ## ✨ Key Features
 
 ### 🤖 AI-Assisted Design Consultation
