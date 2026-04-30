@@ -15,6 +15,12 @@ The BOIN Basic Skill Package is an AI-powered assistant that helps biostatistici
 
 https://drive.google.com/file/d/1_NrBAgfitFNB-lxZ78FbaGfs8lDi7YZ1/view?usp=sharing
 
+
+## Community
+
+Catalyst Circle: https://catalyst-pharma.circle.so/c/public/
+
+
 ## ✨ Key Features
 
 ### 🤖 AI-Assisted Design Consultation
